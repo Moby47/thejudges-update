@@ -1,8 +1,8 @@
 {
   "latest_version": "11",
-  "force_update": false,
+  "force_update": true,
   "title": "Update Available",
-  "message": "• Better update experience\n• Added game version display\n• General UI improvements",
+  "message": "• Official public release\n• Six unique chapters\n• Epic boss battles\n• UI improvements and polish",
   "android_url": "https://play.google.com/store/apps/details?id=com.prayerpathgames.thejudges",
   "ios_url": "https://ios",
   "windows_url": "https://win"

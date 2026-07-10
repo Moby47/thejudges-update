@@ -1,8 +1,8 @@
 {
   "latest_version": "14",
   "force_update": true,
-  "title": "Update Available",
-  "message": "• Improved character selection\n• Better support for large mobile screens\n• New starter coins for first-time players\n• UI improvements and polish\n• Various fixes and enhancements",
+  "title": "Major Content Update",
+  "message": "• Added Levels 7, 8, and 9\n• Balanced Level 1 and Level 2 boss attacks\n• Boss retries now restore your previous weapon\n• Improved visibility of free coin rewards\n• Various fixes and gameplay improvements",
   "android_url": "https://play.google.com/store/apps/details?id=com.prayerpathgames.thejudges",
   "ios_url": "https://apps.apple.com/ng/app/the-judges/id6780665604",
   "windows_url": "https://win"

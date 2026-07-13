@@ -1,8 +1,8 @@
 {
   "latest_version": "17",
-  "force_update": true,
-  "title": "Major Content Update",
-  "message": "• Added Levels 7, 8, and 9\n• Balanced Level 1 and Level 2 boss attacks\n• Boss retries now restore your previous weapon\n• Improved visibility of free coin rewards\n• Various fixes and gameplay improvements",
+  "force_update": false,
+  "title": "Gameplay Update",
+  "message": "• Fixed a Frost visual issue on iOS\n• Improved Jephthah balance\n• Adjusted daily and end-of-run coin rewards for better progression\n• Various fixes and gameplay improvements",
   "android_url": "https://play.google.com/store/apps/details?id=com.prayerpathgames.thejudges",
   "ios_url": "https://apps.apple.com/ng/app/the-judges/id6780665604",
   "windows_url": "https://win"
